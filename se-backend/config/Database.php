@@ -6,7 +6,7 @@ class Database {
     private function __construct() {
         $servername = "localhost";
         $username = "root";
-        $password = "";
+        $password = "123";
         $dbname = "paintingshop";
         $port = 3306;
 
